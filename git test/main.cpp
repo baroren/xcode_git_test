@@ -9,7 +9,8 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    int a =1;
+ 
+    int b=2;
     std::cout << "test\n";
     return 0;
 }
